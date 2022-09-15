@@ -20,6 +20,6 @@ mkdir Books/apps/models
 cp ./book.js ./Books/apps/models/
 mkdir ./Books/public
 cp ./script.js ./Books/public/
-cp ./index.html ./Books/public/
+cp ./index.html ./Books/apps/
 cd Books
 node server.js
